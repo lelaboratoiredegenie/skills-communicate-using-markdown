@@ -9,3 +9,6 @@ Try having header(s)
 ``` cpp
 char* my_msg = "Hello, world!";
 ```
+
+- [x] hw1
+- [ ] hw2
